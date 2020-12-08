@@ -37,8 +37,9 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(350, 227);
             this.button1.TabIndex = 0;
-            this.button1.Text = "click hEREEE!!!";
+            this.button1.Text = "oliwis";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 
             // Form1
             // 
